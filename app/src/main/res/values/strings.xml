@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Controle De Coleta</string>
+    <string name="url_api_trazer_tudo">/api/PedidosAppAPI</string>
+
+</resources>
